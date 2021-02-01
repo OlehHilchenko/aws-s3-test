@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-02-01T21:25:06.629Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" version="14.2.9" etag="UmFCTL3FSN4vqucd6-BF" type="github"><diagram id="b1FoNul2eDyyNBrDbi0T">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-01T21:33:46.536Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="0yJnK5i_0cIw9j_nNvkf" version="14.2.9" type="github">
+  <diagram id="b1FoNul2eDyyNBrDbi0T" name="Page-1">
+    <mxGraphModel dx="804" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1AYx_zjJwZWmxSygdjj8-1" value="&lt;h3&gt;&lt;span id=&quot;docs-internal-guid-cf4451e0-7fff-85a5-2f6e-e08c6a05ce08&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;проект (Spring REST API)&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-cf4451e0-7fff-85a5-2f6e-e08c6a05ce08&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;какие требования к приложению&lt;/span&gt;&lt;/span&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1AYx_zjJwZWmxSygdjj8-2" value="&lt;h3&gt;AWS&lt;br&gt; что понадобиться кроме S3&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="220" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1AYx_zjJwZWmxSygdjj8-3" value="&lt;h3&gt;Докер и контейнеризация&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1AYx_zjJwZWmxSygdjj8-4" value="&lt;h3&gt;Тестирование и то что я не учел&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="90" width="240" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="1AYx_zjJwZWmxSygdjj8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1AYx_zjJwZWmxSygdjj8-3" target="1AYx_zjJwZWmxSygdjj8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
